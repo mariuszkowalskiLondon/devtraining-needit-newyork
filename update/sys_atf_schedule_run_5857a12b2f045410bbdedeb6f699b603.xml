@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>firefox</browser_name>
+        <browser_version/>
+        <description>Run suite 'NeedIt App' on a system with this configuration:
+Firefox browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="NeedIt App Suites">7a27ede72f045410bbdedeb6f699b6ad</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 11:40:51</sys_created_on>
+        <sys_id>5857a12b2f045410bbdedeb6f699b603</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_5857a12b2f045410bbdedeb6f699b603</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 12:05:24</sys_updated_on>
+        <test_suite display_value="NeedIt App">c957c12f2f805410bbdedeb6f699b697</test_suite>
+        <watch_list>koval82@gmail.com</watch_list>
+    </sys_atf_schedule_run>
+</record_update>
